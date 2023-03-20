@@ -1,6 +1,12 @@
-# sf_trees_inequity
+# Tree Inequity in San Francisco
 
-TK
+> Read the story: [Rooting for Equality — Tackling San Francisco's Tree Divide](https://a-tracyz.vev.site/testing)
+
+Communities facing larger housing burdens, higher populations of people of color, and lower socioeconomic status often have fewer street trees. 
+
+For example, in census tracts where the median household income exceeds $200K, the average tree canopy coverage is 14.5%. In contrast, neighborhoods with households earning less than $100K annually have a tree canopy coverage of only 7.2%, which is nearly half the coverage of wealthier areas.
+
+In neighborhoods where over 70% of residents are people of color, there are on average fewer than three street trees per acre. By contrast, in less diverse neighborhoods where the population is less than 30% people of color, there are an average of six street trees per acre, double the number in areas where non-white communities reside.
 
 ## Setup
 
