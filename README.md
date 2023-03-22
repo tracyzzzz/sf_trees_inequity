@@ -1,6 +1,7 @@
 # Tree Inequity in San Francisco
 
-> Read the story: [Rooting for Equality — Tackling San Francisco's Tree Divide](https://a-tracyz.vev.site/testing)
+> Read the story: [Rooting for Equality — Tackling San Francisco's Tree Divide](https://a-tracyz.vev.site/testing) <br>
+> [`Final Text Story doc`](https://docs.google.com/document/d/1tNcoWiQYISdd2TGoP7VzaIv13sztatEH-Tg1d3Az70M/edit) 
 
 Communities facing larger housing burdens, higher populations of people of color, and lower socioeconomic status often have fewer street trees. 
 
